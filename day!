@@ -1,0 +1,93 @@
+Here's a suggested plan for Day 1 to get started with C programming, covering beginner to advanced topics:
+
+Morning (9:00 am - 12:00 pm)
+
+Beginner Topics (1 hour)
+Introduction to C:
+Learn the history and features of the C programming language.
+Understand the basic syntax and structure of a C program.
+Setting up the Environment:
+Install a C compiler (e.g., GCC) and a code editor (e.g., Visual Studio Code) or an IDE (e.g., Eclipse).
+Learn how to write, compile, and run a C program.
+Basic C Programming (2 hours)
+Variables and Data Types:
+Learn about basic data types (e.g., int, char, float) and their sizes.
+Understand how to declare and initialize variables.
+Operators and Control Structures:
+Learn about arithmetic, comparison, logical, and assignment operators.
+Understand how to use if-else statements and switch statements.
+Afternoon (1:00 pm - 4:00 pm)
+
+Intermediate Topics (2 hours)
+Functions:
+Learn how to declare and define functions.
+Understand function arguments, return types, and function calls.
+Arrays and Strings:
+Learn about one-dimensional and two-dimensional arrays.
+Understand how to manipulate strings using array operations.
+Advanced Topics (1 hour)
+Pointers:
+Learn about pointer variables and how to declare them.
+Understand how to use pointers to manipulate memory.
+Evening (5:00 pm - 7:00 pm)
+
+Practice and Review (2 hours)
+Practice Exercises:
+Complete exercises on variables, operators, control structures, functions, and arrays.
+Practice writing C programs to reinforce your understanding.
+Review and Reflection:
+Review the concepts learned throughout the day.
+Reflect on what you've learned and what you need to work on.
+Code Examples
+
+Here are some code examples to get you started:
+
+c
+
+Verify
+
+Open In Editor
+Edit
+Copy code
+// Hello World program
+#include <stdio.h>
+
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+c
+
+Verify
+
+Open In Editor
+Edit
+Copy code
+// Function example
+#include <stdio.h>
+
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int result = add(5, 3);
+    printf("Result: %d\n", result);
+    return 0;
+}
+c
+
+Verify
+
+Open In Editor
+Edit
+
+// Array example
+#include <stdio.h>
+
+int main() {
+    int scores[5] = {90, 80, 70, 60, 50};
+    printf("Score at index 2: %d\n", scores[2]);
+    return 0;
+}
+Remember to take breaks, practice regularly, and review the concepts to reinforce your learning. Good luck!
