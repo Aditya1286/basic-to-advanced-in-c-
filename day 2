@@ -41,7 +41,7 @@ Welcome back to our journey into the world of C++! In Day 1, we got acquainted w
      for (int i = 0; i < 5; ++i) {
          cout << i << " ";
      }
-     ```
+     
 
 4. **Functions:**
    - Functions in C++ are reusable blocks of code that perform a specific task.
