@@ -46,7 +46,7 @@ Here are some practice questions to reinforce your understanding of the topics c
 11. **Custom Exceptions**
     - Create a custom exception class for handling invalid operations in a calculator program. Implement basic operations (add, subtract, multiply, divide) and throw an exception for division by zero.
 
----
+
 
 ### File I/O Operations
 
