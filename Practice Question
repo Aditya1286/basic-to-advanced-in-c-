@@ -37,7 +37,6 @@ Here are some practice questions to reinforce your understanding of the topics c
 9. **Weak Pointer**
    - Implement a scenario where `weak_ptr` is used to avoid circular references between two classes.
 
----
 
 ### Exception Handling
 
