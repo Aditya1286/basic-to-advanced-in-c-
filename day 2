@@ -26,7 +26,6 @@ Welcome back to our journey into the world of C++! In Day 1, we got acquainted w
          cout << "You entered: " << num << endl;
          return 0;
      }
-     ```
 
 3. **Control Structures:**
    - **if-else Statements:** Used for decision making based on conditions.
