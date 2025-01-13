@@ -15,7 +15,6 @@ Welcome back to our journey into the world of C++! In Day 1, we got acquainted w
 2. **Basic Input and Output:**
    - C++ uses `iostream` library for handling input and output operations. The `cout` (character output) and `cin` (character input) are used for displaying output to the console and taking input from the user, respectively.
    - Example:
-     ```cpp
      #include <iostream>
      using namespace std;
      
