@@ -24,7 +24,7 @@ Here are some practice questions to reinforce your understanding of the topics c
 6. **Class Templates**
    - Implement a simple stack class template that supports `push`, `pop`, and `top` operations.
 
----
+
 
 ### Smart Pointers
 
