@@ -68,7 +68,7 @@ Welcome back to our journey into the world of C++! In Day 1, we got acquainted w
      string greeting = "Hello";
      ```
 
-#### Next Steps:
+Next Steps:
 
 - **Practice, Practice, Practice:** Try implementing these concepts in different scenarios to solidify your understanding.
 - **Explore More Advanced Concepts:** Move on to understanding pointers, classes, and object-oriented programming principles.
