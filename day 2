@@ -11,7 +11,6 @@ Welcome back to our journey into the world of C++! In Day 1, we got acquainted w
      int age = 25;
      double pi = 3.14159;
      char grade = 'A';
-     ```
 
 2. **Basic Input and Output:**
    - C++ uses `iostream` library for handling input and output operations. The `cout` (character output) and `cin` (character input) are used for displaying output to the console and taking input from the user, respectively.
