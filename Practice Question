@@ -14,7 +14,7 @@ Here are some practice questions to reinforce your understanding of the topics c
 4. **Abstraction**
    - Design an abstract class `Vehicle` with derived classes `Car` and `Bike`. Implement a method to display the type of vehicle.
 
----
+
 
 ### Templates
 
