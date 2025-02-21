@@ -37,7 +37,6 @@ int main() {
         cout << i << " ";
     }
     cout << endl;
-
     solution.quickSort(arr, 0, arr.size() - 1);
 
     cout << "Sorted array: ";
