@@ -1,27 +1,30 @@
-// User function template for C++
+#include <bits/stdc++.h>
+using namespace std;
 
 class Solution {
-  public:
-    // Function to find all combinations of elements
-    // in array arr that sum to target.
-    void sum(int index,int n,int target,vector<int>& ds,vector<int>& arr,vector<vector<int>>& res){
-        if(index==n){
-            if(target==0){
-                res.push_back(ds);
+public:
+    void findCombinations(int idx, int target, vector<int> &arr, vector<int> &current, vector<vector<int>> &result) {
+        if (idx == arr.size()) {
+            if (target == 0) {
+                result.push_back(current);
             }
             return;
         }
-        if(arr[index]<=target){
-            ds.push_back(arr[index]);
-            sum(index,n,target-arr[index],ds,arr,res);
-            ds.pop_back();
+        
+        if (arr[idx] <= target) {
+            current.push_back(arr[idx]);
+            findCombinations(idx, target - arr[idx], arr, current, result);
+            current.pop_back();
         }
-        sum(index+1,n,target,ds,arr,res);
+        
+        findCombinations(idx + 1, target, arr, current, result);
     }
+
     vector<vector<int>> combinationSum(vector<int> &arr, int target) {
-        vector<vector<int>> res;
-        vector<int> ds;
-        sum(0,arr.size(),target,ds,arr,res);
-        return res;
+        sort(arr.begin(), arr.end());
+        vector<vector<int>> result;
+        vector<int> current;
+        findCombinations(0, target, arr, current, result);
+        return result;
     }
 };
