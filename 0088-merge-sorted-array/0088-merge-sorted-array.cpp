@@ -1,11 +1,33 @@
-#include <algorithm>
 class Solution {
 public:
-    void merge(vector<int>& vec1, int m, vector<int>& vec2, int n) {
-    vector<int> vec;
-    vec.insert(vec.end(), vec1.begin(), vec1.begin() + m);
-    vec.insert(vec.end(), vec2.begin(), vec2.begin() + n);
-    sort(vec.begin(), vec.end());
-    vec1=vec;
+    void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
+        int i=0;
+        int j=0;
+        vector<int> ans;
+        while(i<m && j<n){
+            if(nums1[i]<nums2[j]){
+                ans.push_back(nums1[i]);
+                i++;
+            }
+            else if(nums1[i]>nums2[j]){
+                ans.push_back(nums2[j]);
+                j++;
+            }
+            else{
+                ans.push_back(nums1[i]);
+                ans.push_back(nums2[j]);
+                i++;
+                j++;
+            }
+        }
+            while(i<m){
+                ans.push_back(nums1[i++]);
+            }
+            while(j<n){
+                ans.push_back(nums2[j++]);
+            }
+            nums1=ans;
+
+        
     }
 };
