@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
