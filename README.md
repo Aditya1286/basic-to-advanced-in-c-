@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0875-koko-eating-bananas) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0374-guess-number-higher-or-lower) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
