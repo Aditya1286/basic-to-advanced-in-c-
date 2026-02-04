@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1095-find-in-mountain-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3640-trionic-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
