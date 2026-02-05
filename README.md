@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3640-trionic-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
 ## Interactive
@@ -121,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
