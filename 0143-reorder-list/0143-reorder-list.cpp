@@ -11,6 +11,7 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
+        if(head==nullptr || head->next==nullptr)return ;
         ListNode* fast=head;
         ListNode* slow=head;
         while(fast && fast->next){
