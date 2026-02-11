@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Design
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0092-reverse-linked-list-ii) |
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0143-reorder-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
