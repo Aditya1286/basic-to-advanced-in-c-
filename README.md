@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
+| [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1095-find-in-mountain-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3637-trionic-array-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3637-trionic-array-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0504-base-7) |
+| [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
 ## Interactive
 |  |
 | ------- |
