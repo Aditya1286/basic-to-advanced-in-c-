@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
+| [0225-implement-stack-using-queues](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
 ## Simulation
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 ## Merge Sort
 |  |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0225-implement-stack-using-queues) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
 ## Bit Manipulation
 |  |
