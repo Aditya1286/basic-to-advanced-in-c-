@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
+| [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 ## Memoization
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0143-reorder-list) |
+| [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 ## Merge Sort
 |  |
 | ------- |
