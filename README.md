@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
 ## Merge Sort
 |  |
 | ------- |
@@ -225,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0190-reverse-bits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
