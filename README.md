@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
@@ -206,4 +207,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
