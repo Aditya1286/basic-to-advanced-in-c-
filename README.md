@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0171-excel-sheet-column-number) |
+| [0394-decode-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0504-base-7) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
