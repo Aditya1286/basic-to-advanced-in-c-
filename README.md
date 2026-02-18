@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
+| [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0394-decode-string) |
+| [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0901-online-stock-span) |
