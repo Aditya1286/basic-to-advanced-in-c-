@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0693-binary-number-with-alternating-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
