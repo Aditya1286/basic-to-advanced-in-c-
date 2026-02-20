@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0504-base-7) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
 | [1768-merge-strings-alternately](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1768-merge-strings-alternately) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0088-merge-sorted-array) |
+| [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
 ## Binary Search
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1382-balance-a-binary-search-tree) |
 ## Math
 |  |
