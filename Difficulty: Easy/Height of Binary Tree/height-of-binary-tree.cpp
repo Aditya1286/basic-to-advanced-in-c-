@@ -16,6 +16,8 @@ class Solution {
   public:
     int height(Node* root) {
         if(root==NULL)return -1;
-        return 1+max(height(root->left),height(root->right));
+        int lh=height(root->left);
+        int rh = height(root->right);
+        return 1+max(lh,rh);
     }
 };
