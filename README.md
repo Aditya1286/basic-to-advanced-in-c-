@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1768-merge-strings-alternately) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
