@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1929-concatenation-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
+| [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
+| [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3640-trionic-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1768-merge-strings-alternately) |
+| [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 ## Sorting
 |  |
 | ------- |
@@ -361,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Union-Find
+|  |
+| ------- |
+| [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
