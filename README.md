@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
 ## Greedy
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
 |  |
 | ------- |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0572-subtree-of-another-tree) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Hash Function
 |  |
 | ------- |
