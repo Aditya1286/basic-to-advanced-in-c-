@@ -1,18 +1,13 @@
 class Solution {
+private:
+    int solve(vector<int> nums,int index,int total){
+        if(index==nums.size()){
+            return total;
+        }
+        return solve(nums,index+1,total^nums[index])+solve(nums,index+1,total);
+    }
 public:
     int subsetXORSum(vector<int>& nums) {
-        return dfs(nums, 0, 0);
-    }
-
-    int dfs(vector<int>& nums, int index, int currentXOR) {
-        if (index == nums.size()) {
-            return currentXOR;
-        }
-
-        int with = dfs(nums, index + 1, currentXOR ^ nums[index]);
-        
-        int without = dfs(nums, index + 1, currentXOR);
-
-        return with + without;
+        return solve(nums,0,0);
     }
 };
