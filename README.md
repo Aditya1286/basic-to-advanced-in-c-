@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1095-find-in-mountain-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1929-concatenation-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0504-base-7) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Interactive
 |  |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
 ## Queue
 |  |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0693-binary-number-with-alternating-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -376,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -401,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
