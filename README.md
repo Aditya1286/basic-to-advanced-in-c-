@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0088-merge-sorted-array) |
 | [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0401-binary-watch) |
