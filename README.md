@@ -430,5 +430,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0185-department-top-three-salaries) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1907-count-salary-categories](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1907-count-salary-categories) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
