@@ -428,5 +428,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0185-department-top-three-salaries) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
