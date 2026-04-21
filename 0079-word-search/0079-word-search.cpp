@@ -1,12 +1,13 @@
 class Solution {
 public:
     vector<vector<int>> directions{{1, 0}, {-1, 0}, {0, 1}, {0, -1}};
-    
+    int m, n;
+
     bool find(vector<vector<char>>& board, int i, int j, int idx, string& word) {
         if (idx == word.length())
             return true;
 
-        if (i < 0 || j < 0 || i >= m || j >= n || boad[i][j] == '$')
+        if (i < 0 || j < 0 || i >= m || j >= n || board[i][j] == '$')
             return false;
 
         if (board[i][j] != word[idx])
@@ -28,8 +29,8 @@ public:
     }
 
     bool exist(vector<vector<char>>& board, string word) {
-        int m = board.size();
-        int n = board[0].size();
+        m = board.size();
+        n = board[0].size();
 
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
