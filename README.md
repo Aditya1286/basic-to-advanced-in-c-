@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0022-generate-parentheses) |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
