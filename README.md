@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0088-merge-sorted-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0427-construct-quad-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0171-excel-sheet-column-number) |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0401-binary-watch](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0401-binary-watch) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Breadth-First Search
