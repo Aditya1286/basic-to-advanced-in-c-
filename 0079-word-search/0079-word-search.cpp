@@ -9,16 +9,16 @@ private:
             return false;
         }
         if(board[i][j]!=word[index] )return false;
-        
+        char temp = board[i][j];
+        board[i][j]='$';
         for(auto &dir:direction){
             int _x = i+dir[0];
             int _y = j+dir[1];
-            char temp = board[i][j];
-        board[i][j]='$';
+            
             if(asd(board,_x,_y,word,index+1))return true;
-            board[i][j]=temp;
+            
         }
-        
+        board[i][j]=temp;
 
         return false;
     }
