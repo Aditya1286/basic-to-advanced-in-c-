@@ -1,6 +1,18 @@
 class Solution {
 private:
-
+    void dfs(int index,string str,string digits){
+        if(index>=digits.size()){
+            res.push_back(str);
+            return;
+        }
+        string st=mp[digits[index]-'0'];
+        for(char c:st){
+            str.push_back(c);
+            dfs(index+1,str,digits);
+            str.pop_back();
+        }
+    }
+public:
     vector<string> res;
 
     unordered_map<int, string> mp = {
@@ -13,30 +25,9 @@ private:
         {8, "tuv"},
         {9, "wxyz"}
     };
-
-    void bfs(int index, string str, string digits) {
-
-        if (index >= digits.size()) {
-            res.push_back(str);
-            return;
-        }
-
-        string ch = mp[digits[index] - '0'];
-
-        for (char c : ch) {
-            bfs(index + 1, str + c, digits);
-        }
-    }
-
-public:
-
     vector<string> letterCombinations(string digits) {
-
-        if (digits.empty())
-            return res;
-
-        bfs(0, "", digits);
-
+        string str ="";
+        dfs(0,str,digits);
         return res;
     }
 };
