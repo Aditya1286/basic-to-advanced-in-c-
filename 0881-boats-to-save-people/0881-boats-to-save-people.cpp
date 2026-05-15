@@ -1,18 +1,22 @@
 class Solution {
 public:
-    int numRescueBoats(vector<int>& arr, int limit) {
-        int n=arr.size();
-        int low =0; 
-        int boat = 0;
-        int high =n-1;
-        sort(arr.begin(),arr.end());
+    int numRescueBoats(vector<int>& nums, int target) {
+        sort(nums.begin(),nums.end());
+        int low=0;
+        int high=nums.size()-1;
+        int count=0;
         while(low<=high){
-            int remain=limit-arr[high--];
-            boat++;
-            if(low<=high && remain>=arr[low]){
+            int sum=nums[low]+nums[high];
+            if(sum<=target){
                 low++;
+                high--;
+                count++;
+            }
+            else{
+                high--;
+                count++;
             }
         }
-        return boat;
+        return count;
     }
 };
