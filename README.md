@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-prison-cells-after-n-days](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0957-prison-cells-after-n-days) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1095-find-in-mountain-array) |
+| [1306-jump-game-iii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0572-subtree-of-another-tree) |
+| [1306-jump-game-iii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0404-sum-of-left-leaves) |
+| [1306-jump-game-iii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String Matching
