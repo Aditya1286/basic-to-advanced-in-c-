@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1095-find-in-mountain-array) |
 | [1306-jump-game-iii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1306-jump-game-iii) |
+| [1340-jump-game-v](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1340-jump-game-v](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1340-jump-game-v) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
+| [1340-jump-game-v](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
