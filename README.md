@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1929-concatenation-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2126-destroying-asteroids) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2540-minimum-common-value) |
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2126-destroying-asteroids](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2126-destroying-asteroids) |
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Sorting
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
+| [2126-destroying-asteroids](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2126-destroying-asteroids) |
 | [2751-robot-collisions](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3661-maximum-walls-destroyed-by-robots) |
