@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0303-range-sum-query-immutable) |
 | [0427-construct-quad-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0427-construct-quad-tree) |
 | [0473-matchsticks-to-square](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
@@ -499,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0303-range-sum-query-immutable) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3225-maximum-score-from-grid-operations) |
