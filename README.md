@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0473-matchsticks-to-square) |
 | [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
+| [0643-maximum-average-subarray-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0682-baseball-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0643-maximum-average-subarray-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
