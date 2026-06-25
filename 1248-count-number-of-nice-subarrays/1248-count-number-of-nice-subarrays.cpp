@@ -1,18 +1,23 @@
 class Solution {
 public:
-    int numberOfSubarrays(vector<int>& nums, int k) {
-        return atmost(nums,k)-atmost(nums,k-1);
+    int numberOfSubarrays(vector<int>&nums,int k){
+        return lessthan(nums,k)-lessthan(nums,k-1);
     }
-    int atmost(vector<int> arr,int k){
-        int l=0,r=0,sum=0,count=0;
-        while(r<arr.size()){
-            sum += (arr[r]%2);
-            while(sum>k){
-                sum-=arr[l]%2;
+    int lessthan(vector<int>& nums, int k) {
+        int l = 0, count = 0, oddCount = 0;
+        for (int r = 0; r < nums.size(); r++) {
+            if (nums[r] % 2 == 1) {
+                oddCount++;
+            }
+
+            while (oddCount > k) {
+                if (nums[l] % 2 == 1) {
+                    oddCount--;
+                }
                 l++;
             }
-            count+=r-l+1;
-            r++;
+
+            count += r - l + 1;
         }
         return count;
     }
