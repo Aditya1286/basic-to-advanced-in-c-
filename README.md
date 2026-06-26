@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
+| [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 | [2069-walking-robot-simulation-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2069-walking-robot-simulation-ii) |
 ## Simulation
 |  |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
+| [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -419,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 | [2751-robot-collisions](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2751-robot-collisions) |
 ## Merge Sort
 |  |
@@ -428,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 ## Counting
 |  |
 | ------- |
@@ -472,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0901-online-stock-span) |
+| [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 ## Backtracking
 |  |
 | ------- |
