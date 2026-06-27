@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0051-n-queens) |
+| [0059-spiral-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0657-robot-return-to-origin) |
