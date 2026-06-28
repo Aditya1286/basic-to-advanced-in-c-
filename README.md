@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0051-n-queens) |
 | [0059-spiral-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0088-merge-sorted-array) |
 | [0761-special-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0761-special-binary-string) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0874-walking-robot-simulation) |
