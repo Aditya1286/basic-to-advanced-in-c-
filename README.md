@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1768-merge-strings-alternately](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1768-merge-strings-alternately) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1345-jump-game-iv) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2540-minimum-common-value](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2540-minimum-common-value) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0643-maximum-average-subarray-i) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Heap (Priority Queue)
 |  |
