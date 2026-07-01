@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0404-sum-of-left-leaves) |
 | [1306-jump-game-iii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1306-jump-game-iii) |
