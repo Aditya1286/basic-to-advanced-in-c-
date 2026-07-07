@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3783-mirror-distance-of-an-integer) |
 ## Interactive
