@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0190-reverse-bits](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0190-reverse-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0427-construct-quad-tree) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0049-group-anagrams) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0874-walking-robot-simulation) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
