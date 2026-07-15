@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
 | [0957-prison-cells-after-n-days](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0957-prison-cells-after-n-days) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
+| [0997-find-the-town-judge](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0997-find-the-town-judge) |
 | [1095-find-in-mountain-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1248-count-number-of-nice-subarrays) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0874-walking-robot-simulation) |
 | [0957-prison-cells-after-n-days](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0957-prison-cells-after-n-days) |
 | [0981-time-based-key-value-store](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0981-time-based-key-value-store) |
+| [0997-find-the-town-judge](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0997-find-the-town-judge) |
 | [1189-maximum-number-of-balloons](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1345-jump-game-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1345-jump-game-iv) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0997-find-the-town-judge) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Shortest Path
