@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3691-maximum-total-subarray-value-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2540-minimum-common-value) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3783-mirror-distance-of-an-integer) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Interactive
 |  |
 | ------- |
@@ -355,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -610,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
