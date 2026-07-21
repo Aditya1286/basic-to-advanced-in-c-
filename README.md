@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0875-koko-eating-bananas) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0410-split-array-largest-sum) |
 | [0473-matchsticks-to-square](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0746-min-cost-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0746-min-cost-climbing-stairs) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1340-jump-game-v) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
