@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0746-min-cost-climbing-stairs) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1137-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1340-jump-game-v) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0504-base-7) |
 | [0957-prison-cells-after-n-days](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0957-prison-cells-after-n-days) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1248-count-number-of-nice-subarrays) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0070-climbing-stairs) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1137-n-th-tribonacci-number) |
 ## Tree
 |  |
 | ------- |
