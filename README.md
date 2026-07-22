@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0303-range-sum-query-immutable) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0427-construct-quad-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0427-construct-quad-tree) |
 | [0463-island-perimeter](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0463-island-perimeter) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0200-number-of-islands](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -562,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0463-island-perimeter) |
@@ -594,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0886-possible-bipartition) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
