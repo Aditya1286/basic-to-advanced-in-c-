@@ -1,33 +1,41 @@
 class Solution {
 public:
-    vector<int> findOrder(int v, vector<vector<int>>& nums) {
-       vector<int> adj[v];
-        for (auto it : nums) {
-            adj[it[1]].push_back(it[0]);
+    vector<int> findOrder(int n, vector<vector<int>>& prerequisites) {
+        vector<vector<int>> adj(n);
+        vector<int> indegree(n);
+        queue<int> q;
+        for(auto it:prerequisites){
+            int u=it[0];
+            int v=it[1];
+            adj[v].push_back(u);   
         }
-        vector<int> indegree(v, 0);
-        for (int i = 0; i < v; i++) {
-            for (auto it : adj[i]) {
+        for(int i=0;i<n;i++){
+            for(auto it:adj[i]){
                 indegree[it]++;
             }
         }
-        queue<int> q;
-        for (int i = 0; i < v; i++) {
-            if (indegree[i] == 0) {
+        for(int i=0;i<n;i++){
+            if(indegree[i]==0){
                 q.push(i);
             }
         }
-        vector<int> topo;
-        while (!q.empty()) {
-            int node = q.front();
+        vector<int> ans;
+        int count=0;
+        while(!q.empty()){
+            int current=q.front();
             q.pop();
-            topo.push_back(node);
-            for (auto it : adj[node]) {
+            ans.push_back(current);
+            count++;
+            for(auto it:adj[current]){
                 indegree[it]--;
-                if (indegree[it] == 0) q.push(it);
+                if(indegree[it]==0){
+                    q.push(it);
+                }
             }
         }
-        if(topo.size()==v)return topo;
-        return {}; 
+        if(count==n){
+            return ans;
+        }
+        else return {};
     }
 };
