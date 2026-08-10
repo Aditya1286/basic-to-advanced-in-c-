@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0189-rotate-array) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1768-merge-strings-alternately) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1472-design-browser-history) |
 ## Recursion
 |  |
