@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3225-maximum-score-from-grid-operations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3488-closest-equal-element-queries) |
 | [3637-trionic-array-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3640-trionic-array-ii) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3488-closest-equal-element-queries](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3488-closest-equal-element-queries) |
 | [3713-longest-balanced-substring-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3713-longest-balanced-substring-i) |
 | [3731-find-missing-elements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3731-find-missing-elements) |
