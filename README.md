@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3093-longest-common-suffix-queries) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3225-maximum-score-from-grid-operations) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
