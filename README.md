@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1929-concatenation-of-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1929-concatenation-of-array) |
+| [1958-check-if-move-is-legal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1958-check-if-move-is-legal) |
 | [2054-two-best-non-overlapping-events](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2054-two-best-non-overlapping-events) |
 | [2126-destroying-asteroids](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2126-destroying-asteroids) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1958-check-if-move-is-legal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1958-check-if-move-is-legal) |
 | [2573-find-the-string-with-lcp](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1958-check-if-move-is-legal](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1958-check-if-move-is-legal) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3499-maximize-active-section-with-trade-i) |
