@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1382-balance-a-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1462-course-schedule-iv) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [3310-remove-methods-from-project](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1462-course-schedule-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1462-course-schedule-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3310-remove-methods-from-project) |
 ## String Matching
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0886-possible-bipartition) |
 | [0997-find-the-town-judge](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0997-find-the-town-judge) |
+| [1462-course-schedule-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1462-course-schedule-iv) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -687,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/0210-course-schedule-ii) |
+| [1462-course-schedule-iv](https://github.com/Aditya1286/basic-to-advanced-in-c-/tree/master/1462-course-schedule-iv) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
